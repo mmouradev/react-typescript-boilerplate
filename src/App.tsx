@@ -1,9 +1,8 @@
 import React from 'react';
 
-import Status from './components/Status';
 
 const App: React.FC = () => {
-  return <Status />;
+  return <h1>Happy coding!</h1>;
 };
 
 export default App;
